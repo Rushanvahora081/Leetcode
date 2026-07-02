@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rushanvahora081/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Rushanvahora081/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rushanvahora081/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Rushanvahora081/Leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Rushanvahora081/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
