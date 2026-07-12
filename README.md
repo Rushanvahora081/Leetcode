@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rushanvahora081/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rushanvahora081/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rushanvahora081/Leetcode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rushanvahora081/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rushanvahora081/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rushanvahora081/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rushanvahora081/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
