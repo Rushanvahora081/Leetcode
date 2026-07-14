@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rushanvahora081/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rushanvahora081/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rushanvahora081/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rushanvahora081/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rushanvahora081/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rushanvahora081/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Rushanvahora081/Leetcode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rushanvahora081/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rushanvahora081/Leetcode/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rushanvahora081/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rushanvahora081/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Rushanvahora081/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rushanvahora081/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rushanvahora081/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
